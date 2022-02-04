@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_opcion_1.xml" value="0.13229166666666667" />
         <entry key="app/src/main/res/layout-land/linear_layout_example_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1381340579710145" />
         <entry key="app/src/main/res/layout/constraint_layout_example_layout.xml" value="0.1" />

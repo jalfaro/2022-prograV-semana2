@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">2022-prograV-semana2</string>
+    <string name="usuario_text">Usuario</string>
+    <string name="contrasena_text">Contraseña</string>
 </resources>
